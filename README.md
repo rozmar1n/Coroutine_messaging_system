@@ -42,8 +42,3 @@ found in `1/task_eng.txt`.
    helper scripts in `allcups/` mirror that flow if you need an end-to-end
    rehearsal.
 
-## Status
-The repository currently contains the original templates and tests. Implement
-your solution in `1/corobus.c`, keep the API contract described in
-`1/corobus.h`, and use `1/test.c` plus the provided Docker setup to verify the
-behaviour.
